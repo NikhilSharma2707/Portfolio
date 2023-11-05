@@ -1,0 +1,278 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+
+
+}
+
+.logo{
+    margin-left: -2%;
+}
+.hero{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: #eff4fd;
+       
+}
+
+.box{
+    height: 300px;
+    border: 3px solid black;
+    background: url(images/gif.gif);
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: #eff4fd; /* Add your desired background color here */
+}
+
+
+nav{
+    display: flex;
+    width: 84%;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+}
+
+nav ul li a:hover{
+    color: red;
+}
+
+.detel{
+    margin-left: 4%;
+    margin-top: 3%;
+
+}
+
+.image{
+    margin-top: -25%;
+    margin-bottom: 1%;
+    margin-left: 75%;
+    
+
+
+}
+
+
+.detel h1{
+    font-size: 50px;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.about{
+
+    margin-top: 1.5%;
+    margin-left: 1%;
+    font-size: 20px;
+
+}
+
+.separator{
+    height: 5px; 
+    background-color: black;
+    margin: 20px 0;
+}
+
+.contact{
+    margin-left: 3.4%;
+    margin-top: 2%;
+    
+    
+
+    
+}
+
+.ContactMe{
+    margin-top: 0%;
+    margin-left: 0.8;
+    font-size: 50px;
+    font-size: 38px;
+
+}
+
+.details{
+    margin-top: 1%;
+    font-size: 20px;
+    margin-left: 1%;
+}
+
+.email{
+    margin-top: 0.6%;
+    font-size: large;
+    margin-left: 1%;
+}
+
+.phone{
+    margin-top: 0.2%;
+    font-size: large;
+    margin-left: 1%;
+}
+
+
+.heading1{
+    margin-left: 7%;
+    margin-top: 3%;
+
+}
+
+.projecthead{
+    
+    margin-left: 6%;
+    margin-top: 2% ;
+}
+
+.project1image{
+    margin-top: 2%;
+    margin-left: 10%;
+    background: url(images/gamergif.gif);
+    height: 300px;
+    width: 220px;
+
+}
+
+.project1about{
+    margin-top: -19%;
+    margin-left: 28%;
+    font-size: 20px;
+
+}
+
+.heading2{
+    margin-left: 1%;
+    margin-top: -2%;
+
+}
+
+
+
+
+
+.project2{
+    margin-top: 5%;
+    margin-left: 6%;
+}
+
+.project2about{
+    margin-top: -10%;
+    margin-left: 23%;
+    font-size: 20px;
+
+}
+
+.project2image{
+    margin-top: 3%;
+    margin-left: 4%;
+    background: url(images/200w.gif);
+    height: 150px;
+    width: 220px;
+
+}
+
+.heading3{
+    margin-top: 2%;
+    margin-left: 8% ;
+}
+
+.project3about{
+    margin-top: -13%;
+    margin-left: 27.3%;
+    font-size: 20px;
+
+}
+
+.project3image{
+    margin-top: 3%;
+    margin-left: 12%;
+    height: 200px;
+    width: 180px;
+    background: url(images/comp.png);
+}
+
+
+
+
+.contact .Github_Profile{
+    margin-top: 0.2%;
+    font-size: large;
+    margin-left: 1%;
+}
+
+.contact .Linkedln{
+
+    margin-top: 0.2%;
+    font-size: large;
+    margin-left: 1%;
+    
+    
+}
+
+.image-container {
+    margin-top: 2%;
+
+    
+}
+
+.skills{
+    font-family: Georgia;
+    margin-top: 2%;
+    
+
+}
+
+.marks{
+    margin-top: 2%;
+}
+
+.educationimg{
+    height: 300px;
+    border: 3px solid black;
+    background: url(images/gif.gif);
+}
+
+.projectimg{
+   margin-top: -2.4%;
+    margin-left: 60%;
+    
+    height: 380px;
+    width: 40%;
+    border: 3px solid black;
+    background: url(images/gif1.gif);
+}
+
+.separator1{
+    height: 5px;
+    margin-top: 10%;
+    background-color: black;
+    
+    
+}
+
+.separator2{
+    height: 5px;
+    margin-top: 2%;
+    background-color: black;
+    
+    
+}
